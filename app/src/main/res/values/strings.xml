@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guests</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_all_guests">All guests</string>
+    <string name="menu_present">Presents</string>
+    <string name="menu_absent">Absents</string>
+    <string name="name_guest">Name of the guest</string>
+    <string name="presence_text">Presence</string>
+    <string name="present_text">Present</string>
+    <string name="button_text">SAVE</string>
+    <string name="absent_text">Absent</string>
+    <string name="guest_text">Guest</string>
+</resources>
